@@ -1,0 +1,10 @@
+node_modules
+bower_components
+dist
+test-output
+.idea/
+*.iml
+java/target
+.settings
+.project
+.sonar
